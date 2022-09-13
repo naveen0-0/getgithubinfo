@@ -24,7 +24,7 @@ export default function App() {
     setError(false)
     e?.preventDefault()
     try {
-      let { data } = await axios.get(`${BASE_URL}${username}`)
+      let { data } = await axios.get(`${BASE_URL}${username.trim()}`)
       setUser(data)
       setUsername("")
     } catch (error) {
