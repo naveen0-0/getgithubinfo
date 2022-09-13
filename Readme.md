@@ -1,9 +1,9 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="" alt="Project logo"></a>
+ <img width=200px height=100px src="https://getgithubinfo.netlify.app/display.jpg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Assignment2</h3>
+<h3 align="center">GET GITHUB INFO</h3>
 
 <div align="center">
 
